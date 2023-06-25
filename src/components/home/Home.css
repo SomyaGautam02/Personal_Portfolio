@@ -2,6 +2,10 @@
   row-gap: 5rem;
 }
 
+.home{
+  margin-top: 1rem;
+}
+
 .home__content {
   grid-template-columns: 116px repeat(2, 1fr);
   padding-top: 4rem;

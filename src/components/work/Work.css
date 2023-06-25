@@ -7,7 +7,6 @@
 }
 
 .work__section{
-    margin-top: 6rem;
     margin-bottom: 6rem;
 }
 
@@ -102,6 +101,10 @@
   
   /* For medium devices */
   @media screen and (max-width: 768px) {
+    .work__section{
+        margin-bottom: 0;
+    }
+
     .work__container{
         grid-template-columns: max-content;
     }

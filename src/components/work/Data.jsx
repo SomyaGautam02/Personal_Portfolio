@@ -1,4 +1,4 @@
-import Work1 from "../../assets/Work1.png"
+import Work1 from "../../assets/Work1.jpg"
 import Work2 from "../../assets/Work2.jpg"
 
 

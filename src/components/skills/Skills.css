@@ -69,7 +69,7 @@ hr{
   /* For medium devices */
   @media screen and (max-width: 576px) {
     .skills{
-        padding-top: 4rem;
+        padding-top: 0;
     }
 
     .skills__container{
