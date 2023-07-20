@@ -34,5 +34,5 @@ Start the server
 
 ## Website Demo
 
-https://github.com/SomyaGautam02/Personal_Portfolio/assets/99630875/0837381b-8283-4c4a-b0be-cf05ced4da19
+![s](https://github.com/SomyaGautam02/Personal_Portfolio/assets/99630875/0b56041b-ab1c-498a-bffb-e38deb88c3c6)
 
